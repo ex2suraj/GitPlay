@@ -1,2 +1,3 @@
 This is a new document.
-Okay 2nd commit.
+Okay 2nd commit
+In 1st branch.
